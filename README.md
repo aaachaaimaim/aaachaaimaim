@@ -1,6 +1,5 @@
 <div align="center">
 
-<p><code>aaachaaimaim@github ~ $ ./maintainer.sh</code></p>
 
 <p align="center">
 <picture>
