@@ -1,13 +1,4 @@
-<div align="center">
 
-
-<p align="center">
-<img src="https://www.gitskins.com/api/section/wordmark?username=aaachaaimaim&theme=dracula&style=aura&avatar=https%3A%2F%2Fgithub.com%2Faaachaaimaim.png&v=showcase-wordmark-2" alt="aaachaaimaim wordmark visual" width="860" />
-</p>
-
-</div>
-
-<br>
 
 # 💫 About Me:
 📚 I'm currently studying Software Engineering at Mahidol University<br>
